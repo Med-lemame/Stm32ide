@@ -1,8 +1,7 @@
-
 <?php
 ‎// بيانات الاتصال بقاعدة البيانات
 $host = 'sql113.infinityfree.com';
-$db = 'if0_36689143_XXX';
+$db = 'if0_36689143_my_database';
 $user = 'if0_36689143';
 $pass = 'GM76foosxblgj3';
 
